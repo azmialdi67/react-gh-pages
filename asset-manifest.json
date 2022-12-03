@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/azmialdi67/react-gh-pages.git/static/js/main.ba0e9b81.js",
-    "index.html": "/azmialdi67/react-gh-pages.git/index.html",
-    "main.ba0e9b81.js.map": "/azmialdi67/react-gh-pages.git/static/js/main.ba0e9b81.js.map"
+    "main.js": "/static/js/main.ba0e9b81.js",
+    "index.html": "/index.html",
+    "main.ba0e9b81.js.map": "/static/js/main.ba0e9b81.js.map"
   },
   "entrypoints": [
     "static/js/main.ba0e9b81.js"
